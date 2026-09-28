@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+</p>
 # Hi 👋 I'm Sai Priya Neeli
 
 ### AI Software Engineer | iOS Developer | Full Stack Developer
