@@ -40,13 +40,6 @@ I'm a Software Engineer based in **Bengaluru, India** with experience building A
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
-## 📊 GitHub Stats
-
-![Sai Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saipriya240&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saipriya240&layout=compact)
-
----
 ## ⭐ Featured Projects
 
 ### 🤖 CodeLens — AI Powered Debugging Platform
